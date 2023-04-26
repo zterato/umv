@@ -1,0 +1,151 @@
+@charset "utf-8";
+@media screen and (max-width: 414px) and (min-width: 200px){
+	.img-banner{
+	margin-top: 15%;
+}
+.img-carrinho2{
+	width: 50%;
+	float: left;
+}
+	.ess{
+	margin-top: 100%;
+}
+	.ess2{
+	margin-top: 30%;
+}
+/* CSS Document */
+	.carrinho h5{
+		font-size: 14px;
+	}
+	.txt_h{
+		font-size: 12px;
+	}
+	.txt_p{
+		font-size: 9px;
+	}
+.es-top{
+	margin-top: 90%;
+	font-size: 16px;
+}
+.es-top2{
+	margin-top: 90%;
+}
+.img-prod-venda{
+	width: 100%;
+}
+.img-prod-venda:hover{
+   -webkit-transform: scale(1.1);
+   transform: scale(1.1);
+}
+
+.img-ico{
+	width: 10%;
+	margin-right: 2%;
+	margin-left: 2%;
+}
+.img-ico2{
+	width: 50%;
+	margin-right: 2%;
+	margin-left: 2%;
+}
+.img-logo{
+	width: 100%;
+	float: left;
+	margin-right: 45%;
+}
+.link-carrinho{
+	width: 10%;
+}
+.link-logo{
+	width: 20%;
+}
+.img-carrinho{
+	width: 100%;
+	float: right;
+	margin-left: 2%;
+}
+.img-info{
+	width: 100%;
+	margin-top: 7%;
+}
+.rodape{
+	background: black;
+	color: white;
+	text-align: center;
+	padding: 2%;
+}
+.informacoes{
+	background: #df0691;
+	padding: 2%;
+	text-align: center;
+	color: white;
+	margin-top: 2%;
+}
+.ld-right{
+	border-left: 2px solid white;
+	padding-left: 4%;
+	
+}
+.ld-right2{
+	border-left: 2px solid white;
+	border-right: 2px solid white;
+	
+}
+
+.titulo-prod{
+	text-align: center;
+	margin-top: 3%;
+}
+
+
+.titulo{
+	color: #df0691;
+	text-align: center;
+	font-family: Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana," sans-serif";
+	margin-bottom: 3%;
+	
+}
+.titulo h1:after {
+            content: ' ';
+            position: absolute;
+            width: 5%;
+            border-top: 5px solid #df0691;
+            margin-top: 1.2%;
+        }
+.titulo h1:before{
+			content: ' ';
+            position: absolute;
+            width: 5%;
+            border-top: 5px solid #df0691;
+            margin-top: 1.2%;
+	margin-left: -5%;
+}
+.prod{
+	width: 100%;
+	border: 1px solid #df0691;
+	border-radius: 20px;
+	padding: 6%;
+	text-align: center;
+	margin-top: 5%;
+}
+.img-produto{
+	width: 90%;
+}
+.text-prod{
+	color: #df0691;
+}
+.direitos{
+	margin-top: 4%;
+}
+
+
+.pesquisa{
+	background: #df0691;
+	padding: 1%;
+	color: white;
+	margin-bottom: 3%;
+}
+.espaco{
+	margin-top: 7%;
+}
+}

@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin: 0;
+	padding: 0;
+	background: #000000;
+}
+
+/** login **/
+.loginform{
+	border: 15px solid white;
+	border-radius: 15px;
+	padding: 5%;
+	background: white;
+	margin-top: 5%;
+}
+.logologin{
+	width: 60%;
+	margin-bottom: 3%;
+}
+/** fim do login **/
+
+/** rodapé **/
+.rodape{
+	text-align: center;
+	padding: 1%;
+	width: 100%;
+	background: black;
+	position: absolute;
+	bottom: 0;
+	color: white;
+}
+/** fim do rodapé **/

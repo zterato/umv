@@ -1,0 +1,169 @@
+@charset "utf-8";
+/* CSS Document */
+.ess{
+	margin-top: 30%;
+}
+.ess2{
+	margin-top: 30%;
+}
+.img-banner{
+	margin-top: 5%;
+}
+.img-carrinho2{
+	width: 15%;
+	float: left;
+}
+.menos{
+	width: 14%;
+	height: 4vh;
+	background: #d3d3d3;
+	border: 1px solid #605F5F;
+	border-radius: 5px;
+	float: left;
+}
+.mais{
+	width: 14%;
+	height: 4vh;
+	background: #d3d3d3;
+	border: 1px solid #605F5F;
+	border-radius: 5px;
+	float: right;
+
+}
+.input-numero{
+	width: 72%;
+	height: 4vh;
+	background: #ECE8E8;
+	border: 1px solid #605F5F;
+	border-radius: 5px;
+	float: left;
+}
+.es-top{
+	margin-top: 30%;
+}
+.es-top2{
+	margin-top: 30%;
+}
+.img-prod-venda{
+	width: 100%;
+}
+.img-prod-venda:hover{
+   -webkit-transform: scale(1.1);
+   transform: scale(1.1);
+}
+
+.img-ico{
+	width: 20%;
+	margin-right: 2%;
+	margin-left: 2%;
+}
+.img-ico2{
+	width: 70%;
+	margin-right: 2%;
+	margin-left: 2%;
+}
+.link-carrinho{
+	width: 3%;
+	margin: 0;
+	padding: 0;
+	float: right;
+	margin-left: 2%;
+}
+.link-logo{
+	width: 15%;
+	margin: 0;
+	padding: 0;
+	float: left;
+	margin-right: 37%;
+}
+.img-logo{
+	width: 100%;
+}
+.img-carrinho{
+	width: 100%;
+	
+}
+.img-info{
+	width: 100%;
+	margin-top: 7%;
+}
+.rodape{
+	background: black;
+	color: white;
+	text-align: center;
+	padding: 2%;
+}
+.informacoes{
+	background: #737272;
+	padding: 2%;
+	text-align: center;
+	color: white;
+	margin-top: 2%;
+}
+.ld-right{
+	border-left: 2px solid white;
+	padding-left: 4%;
+	
+}
+.ld-right2{
+	border-left: 2px solid white;
+	border-right: 2px solid white;
+	
+}
+
+.titulo-prod{
+	text-align: center;
+	margin-top: 3%;
+}
+
+
+.titulo{
+	color: black;
+	text-align: center;
+	font-family: Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana," sans-serif";
+	margin-bottom: 3%;
+	
+}
+.titulo h1:after {
+            content: ' ';
+            position: absolute;
+            width: 5%;
+            border-top: 5px solid black;
+            margin-top: 1.2%;
+        }
+.titulo h1:before{
+			content: ' ';
+            position: absolute;
+            width: 5%;
+            border-top: 5px solid black;
+            margin-top: 1.2%;
+	margin-left: -5%;
+}
+.prod{
+	width: 100%;
+	border: 1px solid black;
+	border-radius: 20px;
+	padding: 6%;
+	text-align: center;
+	margin-top: 5%;
+}
+.img-produto{
+	width: 90%;
+}
+.text-prod{
+	color: black;
+}
+.direitos{
+	margin-top: 4%;
+}
+
+
+.pesquisa{
+	background: black;
+	padding: 1%;
+	color: white;
+	margin-bottom: 3%;
+}
+.espaco{
+	margin-top: 7%;
+}
